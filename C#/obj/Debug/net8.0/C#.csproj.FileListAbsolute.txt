@@ -12,3 +12,18 @@ C:\Users\user\Desktop\С# Consol Project\C#\obj\Debug\net8.0\refint\C#.dll
 C:\Users\user\Desktop\С# Consol Project\C#\obj\Debug\net8.0\C#.pdb
 C:\Users\user\Desktop\С# Consol Project\C#\obj\Debug\net8.0\C#.genruntimeconfig.cache
 C:\Users\user\Desktop\С# Consol Project\C#\obj\Debug\net8.0\ref\C#.dll
+c:\Users\radio\Desktop\CONSOLE\C-\C#\bin\Debug\net8.0\C#.exe
+c:\Users\radio\Desktop\CONSOLE\C-\C#\bin\Debug\net8.0\C#.deps.json
+c:\Users\radio\Desktop\CONSOLE\C-\C#\bin\Debug\net8.0\C#.runtimeconfig.json
+c:\Users\radio\Desktop\CONSOLE\C-\C#\bin\Debug\net8.0\C#.dll
+c:\Users\radio\Desktop\CONSOLE\C-\C#\bin\Debug\net8.0\C#.pdb
+c:\Users\radio\Desktop\CONSOLE\C-\C#\obj\Debug\net8.0\C#.GeneratedMSBuildEditorConfig.editorconfig
+c:\Users\radio\Desktop\CONSOLE\C-\C#\obj\Debug\net8.0\C#.AssemblyInfoInputs.cache
+c:\Users\radio\Desktop\CONSOLE\C-\C#\obj\Debug\net8.0\C#.AssemblyInfo.cs
+c:\Users\radio\Desktop\CONSOLE\C-\C#\obj\Debug\net8.0\C#.csproj.CoreCompileInputs.cache
+c:\Users\radio\Desktop\CONSOLE\C-\C#\obj\Debug\net8.0\C#.sourcelink.json
+c:\Users\radio\Desktop\CONSOLE\C-\C#\obj\Debug\net8.0\C#.dll
+c:\Users\radio\Desktop\CONSOLE\C-\C#\obj\Debug\net8.0\refint\C#.dll
+c:\Users\radio\Desktop\CONSOLE\C-\C#\obj\Debug\net8.0\C#.pdb
+c:\Users\radio\Desktop\CONSOLE\C-\C#\obj\Debug\net8.0\C#.genruntimeconfig.cache
+c:\Users\radio\Desktop\CONSOLE\C-\C#\obj\Debug\net8.0\ref\C#.dll

@@ -1,25 +1,27 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\user\\Desktop\\С# Consol Project\\C#\\C#.csproj": {}
+    "c:\\Users\\radio\\Desktop\\CONSOLE\\C-\\C#\\C#.csproj": {}
   },
   "projects": {
-    "C:\\Users\\user\\Desktop\\С# Consol Project\\C#\\C#.csproj": {
+    "c:\\Users\\radio\\Desktop\\CONSOLE\\C-\\C#\\C#.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\user\\Desktop\\С# Consol Project\\C#\\C#.csproj",
+        "projectUniqueName": "c:\\Users\\radio\\Desktop\\CONSOLE\\C-\\C#\\C#.csproj",
         "projectName": "C#",
-        "projectPath": "C:\\Users\\user\\Desktop\\С# Consol Project\\C#\\C#.csproj",
-        "packagesPath": "C:\\Users\\user\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\user\\Desktop\\С# Consol Project\\C#\\obj\\",
+        "projectPath": "c:\\Users\\radio\\Desktop\\CONSOLE\\C-\\C#\\C#.csproj",
+        "packagesPath": "C:\\Users\\radio\\.nuget\\packages\\",
+        "outputPath": "c:\\Users\\radio\\Desktop\\CONSOLE\\C-\\C#\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
-          "C:\\Users\\user\\AppData\\Roaming\\NuGet\\NuGet.Config"
+          "C:\\Users\\radio\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
         ],
         "originalTargetFrameworks": [
           "net8.0"
         ],
         "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
           "https://api.nuget.org/v3/index.json": {}
         },
         "frameworks": {
@@ -58,7 +60,7 @@
               "privateAssets": "all"
             }
           },
-          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\8.0.403/PortableRuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\8.0.205/PortableRuntimeIdentifierGraph.json"
         }
       }
     }
